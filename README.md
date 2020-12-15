@@ -1,7 +1,7 @@
 Created a mini-project in JAVASCRIPT.
 
 Description:
-Each time click on button, progress-circly will try to be full-completed.
+Each time click on button, progress-circle will try to be full-completed.
 
 
 Technologies used:
