@@ -1,0 +1,21 @@
+{
+  "name": "VodafoneShakeAppTemplate",
+  "authors": [
+    "Rigers Leka <rigersleka2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "progressbar.js": "^1.0.1"
+  }
+}

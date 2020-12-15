@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    height: 100vh;
+    background: #000;
+    color: #fff;
+    padding: 20px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.wrapper h1 {
+    margin: 0 70px;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    color: #fff;
+    border: 1px solid;
+    background: transparent;
+    margin-top: 20px;
+}
+
+.progress {
+    height: 250px;
+}
+
+.progress > svg {
+    height: 100%;
+    display: block;
+}
+
+
+.game {
+    display: none;
+}
+
+.game.visible {
+    display: block;
+}
+
+.result {
+    display: none;
+}
+
+.result.visible {
+    display: block;
+}
